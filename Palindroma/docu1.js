@@ -25,5 +25,5 @@ if (parolaPalindroma(inputUtente)){
 }
 
 
-//richiamo la funzione
+//richiamo la funzione si verifica, una volta inserita nell'input utente, se la parola e uguale alla parola inversa
 parolaPalindroma(inputUtente)
